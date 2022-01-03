@@ -14,13 +14,13 @@
         android:layout_height="wrap_content"
         android:text="Count: 0" />
     <Button
-        android:layout_marginTop="5dp"
+        android:layout_marginTop="20dp"
         android:id="@+id/buttonStartService"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Start Service"/>
     <Button
-        android:layout_marginTop="5dp"
+        android:layout_marginTop="20dp"
         android:id="@+id/buttonStopService"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
